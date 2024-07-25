@@ -1,0 +1,10 @@
+openai==0.28.0
+boto3==1.34.13
+faiss-cpu
+python-dotenv
+langchain-community
+unstructured
+pillow
+pillow_heif
+requests
+
